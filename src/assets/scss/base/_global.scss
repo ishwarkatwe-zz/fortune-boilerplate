@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: $primary-text-color;
+  background: $body-bg;
+  padding: 0;
+  margin: 0;
+}
