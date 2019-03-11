@@ -25,7 +25,8 @@ const app = {
       username: 'testInstance',
       password: '2k121101_MCPL'
     },
-    baseURL: 'http://192.168.6.218:8080/oauth-service/api/molcon/'
+    // baseURL: 'http://192.168.6.218:8080/oauth-service/api/molcon/',
+    baseURL: 'http://192.168.10.70:8080/oauth-service/api/molcon/',
   }
 };
 

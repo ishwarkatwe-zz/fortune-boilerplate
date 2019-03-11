@@ -32,7 +32,7 @@ export class PreloaderComponent implements OnInit {
       if (this.per === 100) {
         setTimeout(() => {
           this.showHide = false;
-        }, 200);
+        }, 500);
       }
     });
   }
